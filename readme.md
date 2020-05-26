@@ -7,8 +7,9 @@ SVM classifier implemented from scratch using QP solver of CVXOPT. Features supp
 
 
 # Installation
+```
 pip3 install requirements.txt
-
+```
 # Demo
 ## Linear Kernel
 ### Data
